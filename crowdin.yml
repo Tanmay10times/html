@@ -1,3 +1,4 @@
 files:
   - source: /
     translation: '%original_file_name%'
+    multilingual: 1
